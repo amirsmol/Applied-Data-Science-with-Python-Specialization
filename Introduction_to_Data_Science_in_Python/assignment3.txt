@@ -1,0 +1,42 @@
+Detected Jupyter notebook submission.
+ 
+----------
+ Function answer_one results were not the same as the solution results. Iterating through the dataframes we found that there were differences in the following columns: dict_keys(['2011', '2013', 'Self-citations', 'Citable documents', '2015', '2009', 'Documents', 'Citations per document', 'Citations', '2012', '2010', '2007', 'Rank', '2008', '% Renewable', 'H index', 'Energy Supply', 'Energy Supply per Capita', '2014', '2006']). 
+----------
+ Function answer_one was answered incorrectly, 0.2 points were not awarded. The shape of the DataFrame was correct, and the column names were correct, but equality testing failed. 
+----------
+ Function answer_two was answered incorrectly, 0.0666 points were not awarded. 
+----------
+ Function answer_three results were not the same as the solution results. Iterating through the series we found that there were 3 differences. 
+----------
+ Function answer_three was answered incorrectly, 0.0666 points were not awarded 
+----------
+ Function answer_four was answered incorrectly, 0.0666 points were not awarded. 
+----------
+ Function answer_five was answered incorrectly, 0.0666 points were not awarded. 
+----------
+ Function answer_six was answered correctly, 0.0666 points awarded. 
+----------
+ Function answer_seven was answered correctly, 0.0666 points awarded. 
+----------
+ Function answer_eight was answered correctly, 0.0666 points awarded. 
+----------
+ Function answer_nine was answered incorrectly, 0.0666 points were not awarded. 
+----------
+ Function answer_ten results were not the same as the solution results. Iterating through the series we found that there were 3 differences. 
+----------
+ Function answer_ten was answered incorrectly, 0.0666 points were not awarded 
+----------
+ Warning (function answer_eleven), your DataFrame column, named 'size' is of type int64, but ours is of type float64. Attempting to convert for grading. 
+----------
+ Function answer_eleven results were not the same as the solution results. Iterating through the dataframes we found that there were differences in the following columns: dict_keys(['size', 'sum']). 
+----------
+ Function answer_eleven was answered incorrectly, 0.0666 points were not awarded. The shape of the DataFrame was correct, and the column names were correct, but equality testing failed. 
+----------
+ Function answer_twelve was answered incorrectly, you returned a variable of type <class 'pandas.core.frame.DataFrame'> and we expected a type of <class 'pandas.core.series.Series'>. 0.0666 points we not awarded. 
+----------
+ Function answer_thirteen results were not the same as the solution results. Iterating through the series we found that there were 15 differences. 
+----------
+ Function answer_thirteen was answered incorrectly, 0.0674 points were not awarded 
+----------
+
